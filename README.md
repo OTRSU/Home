@@ -3,6 +3,7 @@
 ## My Repository
 ### Proxies
 > Status
+>
 > [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/OTRSU/Proxies/sub_merge?label=sub_merge)](https://github.com/OTRSU/Proxies/actions/workflows/merge.yml)
 >
 > [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/OTRSU/Proxies/speedtest?label=speedtest)](https://github.com/OTRSU/Proxies/actions/workflows/speedtest.yml)
